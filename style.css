@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+
+}
+div{
+    display: inline-block;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+.vermelho {
+    background-color: red;
+}
+.azul {
+    background-color: rgb(0, 153, 255);
+}
+.verde {
+    background-color: rgb(73, 128, 0);
+}
+.amarelo {
+    background-color: yellow;
+}
+#borda{
+    border: 2px solid black;
+}
+.laranja:hover{
+    background-color: orange;
+}
+
+#borda:hover{
+    background-color: orange;
+}
+
